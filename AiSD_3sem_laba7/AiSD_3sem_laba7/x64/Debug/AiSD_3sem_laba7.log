@@ -1,0 +1,3 @@
+﻿  AiSD_3sem_laba7.cpp
+C:\Users\user\source\repos\AiSD_3sem_laba7\AiSD_3sem_laba7\AiSD_3sem_laba7.cpp(22,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AiSD_3sem_laba7.vcxproj -> C:\Users\user\source\repos\AiSD_3sem_laba7\x64\Debug\AiSD_3sem_laba7.exe
