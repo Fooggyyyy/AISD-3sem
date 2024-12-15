@@ -1,0 +1,43 @@
+﻿  AiSD_3sem_laba10.cpp
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(80,34): warning C4267: +=: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(80,34): warning C4267:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(80,34): warning C4267:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(80,34): warning C4267:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(80,34): warning C4267:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(81,34): warning C4267: +=: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(81,34): warning C4267:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(81,34): warning C4267:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(81,34): warning C4267:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(81,34): warning C4267:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(92,35): warning C4244: *=: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(92,35): warning C4244:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(92,35): warning C4244:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(92,35): warning C4244:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(92,35): warning C4244:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(106,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(186,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(227,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(259,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(270,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(281,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(309,46): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(309,46): warning C4244:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(309,46): warning C4244:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(309,46): warning C4244:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(309,46): warning C4244:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(313,45): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(313,45): warning C4244:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(313,45): warning C4244:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(313,45): warning C4244:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(313,45): warning C4244:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(317,46): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(317,46): warning C4244:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(317,46): warning C4244:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(317,46): warning C4244:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(317,46): warning C4244:         ]
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(321,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(321,30): warning C4244:         with
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(321,30): warning C4244:         [
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(321,30): warning C4244:             _Ty=int
+C:\Users\user\source\repos\AiSD_3sem_laba10\AiSD_3sem_laba10.cpp(321,30): warning C4244:         ]
+  AiSD_3sem_laba10.vcxproj -> C:\Users\user\source\repos\AiSD_3sem_laba10\x64\Debug\AiSD_3sem_laba10.exe
